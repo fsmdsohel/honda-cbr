@@ -1,0 +1,11 @@
+.nav-bg,
+.intro-bg {
+  background-color: #264653;
+}
+.image-grayscale {
+  filter: grayscale(100%);
+}
+
+.text-orange {
+  color: #e77c40;
+}
