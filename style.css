@@ -1,11 +1,51 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
+
+body {
+  font-family: "Poppins", sans-serif;
+}
+
 .nav-bg,
 .intro-bg {
   background-color: #264653;
 }
+.btn-orange {
+  background-color: #e77c40;
+  color: #fff;
+}
 .image-grayscale {
   filter: grayscale(100%);
 }
+.shadow.rounded-3 {
+  border-radius: 9px !important;
+}
+.rm-btn {
+  border: 1px solid #e77c40;
+  background: transparent;
+  color: #e77c40;
+}
 
+.rm-btn:hover {
+  background-color: #e77c40;
+  color: #ffffff;
+}
 .text-orange {
   color: #e77c40;
+}
+
+.nav-text > a {
+  color: #ffffff !important;
+  font-weight: 400;
+}
+
+.get-app {
+  border: 2px solid #8d8d8d;
+  border-radius: 9px;
+  width: 200px;
+}
+
+.get-app .d-flex {
+  flex: 30%;
+}
+.get-app .get-app-text {
+  flex: 70%;
 }
