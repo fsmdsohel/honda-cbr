@@ -52,3 +52,10 @@ body {
 #login .container #login-row #login-column #login-box #login-form {
   padding: 20px;
 }
+
+.svg-back {
+  background-image: url(./images/background.svg);
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: bottom;
+}
