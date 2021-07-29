@@ -4,6 +4,7 @@ body {
   font-family: "Poppins", sans-serif;
 }
 
+.secials,
 .nav-bg,
 .intro-bg {
   background-color: #264653;
@@ -31,21 +32,23 @@ body {
 .text-orange {
   color: #e77c40;
 }
+.accordion-item {
+  border: 1px solid #d8d8d88c !important;
+  border-radius: 5px !important;
+}
+.accordion-button {
+  border-radius: 5px !important;
+}
 
 .nav-text > a {
   color: #ffffff !important;
   font-weight: 400;
 }
 
-.get-app {
-  border: 2px solid #8d8d8d;
-  border-radius: 9px;
-  width: 200px;
+#login .container #login-row #login-column #login-box {
+  border: 1px solid #9c9c9c;
+  background-color: #eaeaea;
 }
-
-.get-app .d-flex {
-  flex: 30%;
-}
-.get-app .get-app-text {
-  flex: 70%;
+#login .container #login-row #login-column #login-box #login-form {
+  padding: 20px;
 }
