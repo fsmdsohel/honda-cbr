@@ -59,3 +59,24 @@ body {
   background-size: contain;
   background-position: bottom;
 }
+
+/* intro section */
+
+.intro-image {
+}
+
+.bike_animation {
+  animation-name: bikeAnimation;
+  animation-timing-function: cubic-bezier();
+  animation-iteration-count: 1;
+  animation-duration: 1s;
+}
+
+@keyframes bikeAnimation {
+  0% {
+    transform: translate(300px, -20px) scale(0.8);
+  }
+  100% {
+    transform: translate(0px, 0px) scale(1);
+  }
+}
