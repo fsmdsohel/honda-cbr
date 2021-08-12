@@ -21,10 +21,10 @@ Hi, I'm Sohel Rana😉, 18 Years old Developer and programmer 👨🏻‍💻 fr
 ----
 
 * 👨🏻‍💻 I’m currently working on Web Development.
-* 🌱 I’m currently learning C++/PHP.
+* 🌱 I’m currently learning Javascript
 * 🤔  I hope to be a linux system development programmer. 🐧
 * 💬 Ask me about anything and I would like to answer.
-* 📫 Please email via mayracse19@gmail.com to reach me.
+* 📫 Please email via fsmdsohelrana@gmail.com to reach me.
 
 
 
@@ -34,10 +34,10 @@ Hi, I'm Sohel Rana😉, 18 Years old Developer and programmer 👨🏻‍💻 fr
  <br>
  <br>
  <p align="center">
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=H-K-R&theme=dracula"/>
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fsmdsohel&theme=dracula"/>
  
   
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=H-K-R&count_private=true&show_icons=true&theme=dracula&include_all_commits=true"/>
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=fsmdsohel&count_private=true&show_icons=true&theme=dracula&include_all_commits=true"/>
   </P><br>
   
  
